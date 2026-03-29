@@ -1,0 +1,9 @@
+PyPDF2
+python-dotenv
+azure-ai-formrecognizer
+sentence-transformers
+faiss-cpu
+numpy
+langchain
+langchain-community
+langchain-core
